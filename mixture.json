@@ -2,8 +2,8 @@
   "debug": false,
   "domain": null,
   "gitHubPages": {
-    "guid": "95E035D1-E671-4E91-A933-2E43DE277F54",
-    "repoUrl": "https://github.com/govisual/sjoerdperfors.nl.git"
+    "guid": "B9E26C1B-0D26-4E71-AE26-808FC691332F",
+    "repoUrl": "https://github.com/govisual/jorndevries.nl.git"
   },
   "lintScripts": false,
   "modelSource": null,
@@ -11,7 +11,7 @@
   "preprocessorScriptOutput": "assets/js",
   "preprocessorStyleOutput": "assets/css",
   "projectDescription": "The most advanced responsive front-end framework in the world.",
-  "projectName": "sjoerdperfors.nl",
+  "projectName": "jorndevries.nl",
   "publishedId": null,
   "sass": {
     "useLibSass": true
