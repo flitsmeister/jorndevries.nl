@@ -1,13 +1,14 @@
 {
+  "convertHtml": {
+    "relativePaths": false
+  },
   "debug": false,
   "domain": null,
-  "gitHubPages": {
-    "guid": "B9E26C1B-0D26-4E71-AE26-808FC691332F",
-    "repoUrl": "https://github.com/govisual/jorndevries.nl.git"
-  },
   "lintScripts": false,
   "modelSource": null,
-  "preprocessorLocations": "assets",
+  "preprocessorLocations": [
+    "assets"
+  ],
   "preprocessorScriptOutput": "assets/js",
   "preprocessorStyleOutput": "assets/css",
   "projectDescription": "The most advanced responsive front-end framework in the world.",
